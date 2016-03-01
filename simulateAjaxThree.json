@@ -1,0 +1,5 @@
+{"result":[{"suningPrice":"1","date":"2016-01-08 13:38:47","jingdongPrice":"1599.00","suningLower":"1.00","smartbuy":true,"jingdongLower":"1.00"},{"suningPrice":"1599.00","date":"2016-01-08 13:38:47","jingdongPrice":"1599.00","suningLower":"1.00","smartbuy":true,"jingdongLower":"1.00"}],"success":true}
+
+{"result1":[{"suningPrice":"2","date":"2016-01-09 13:38:47","jingdongPrice":"1599.00","suningLower":"1.00","smartbuy":true,"jingdongLower":"1.00"},{"suningPrice":"1599.00","date":"2016-01-08 13:38:47","jingdongPrice":"1599.00","suningLower":"1.00","smartbuy":true,"jingdongLower":"1.00"}],"success":true}
+
+{"result2":[{"suningPrice":"3","date":"2016-01-10 13:38:47","jingdongPrice":"1599.00","suningLower":"1.00","smartbuy":true,"jingdongLower":"1.00"},{"suningPrice":"1599.00","date":"2016-01-08 13:38:47","jingdongPrice":"3","suningLower":"1.00","smartbuy":true,"jingdongLower":"1.00"}],"success":true}
