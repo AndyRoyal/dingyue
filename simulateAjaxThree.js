@@ -165,7 +165,7 @@ console.log( $.Object.count.call( obj, true ) );
 
     var newajax = new AjaxDemo();	
 
-
+var  git = 1;
 
 
 
