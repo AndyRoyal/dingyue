@@ -73,10 +73,15 @@ Number.prototype = Object.defineProperty(
 //str.func = function() { console.log('test');};
 //str.func()
 //
-//var a='abc';
-//var b=new String('abc');
-//console.log(typeof a);//string
-//console.log(typeof b);//object
+var a='abc';
+var b=new String('abc');
+console.log(typeof a);//string
+console.log(typeof b);//object
+a.x = 2;
+a.x;//undefined
+b.x = 2;
+b.x //2
+
 //a是字符串基本类型，b是字符串包装类型，字符串基本类型就不能加属性和方法，你的解释是不对的。
 
 //补充2 的总结： 字符串 基本类型 不能添加属性和方法，字符串包装类型可以添加属性和方法。
