@@ -596,3 +596,25 @@ function isEmpty(obj){
 		for(var key in obj)return false;
 		return true;
 };
+
+
+//----------------------
+//about return 
+function a(){
+  console.log("a");
+  return b(),1,2,c(),"5"+1;
+}
+function b(){
+  console.log("b");
+}
+function c(){
+  console.log("c")
+}
+
+a();
+// a
+// b
+// c
+//"51"
+//
+//----------------------
